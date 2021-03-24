@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lenovo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lenovo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_GameForPraktika.-1691306852.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lenovo\RiderProjects\GameForPraktika" t="IncludeFlat">
+      <e p="GameForPraktika" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Character.cs" t="Include" />
+        <e p="Enum's" t="Include">
+          <e p="Race.cs" t="Include" />
+          <e p="Sex.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+        </e>
+        <e p="GameForPraktika.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="GameForPraktika.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="GameForPraktika.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
