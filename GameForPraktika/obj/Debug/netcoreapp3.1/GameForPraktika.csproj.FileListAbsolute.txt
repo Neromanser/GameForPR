@@ -1,0 +1,13 @@
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\bin\Debug\netcoreapp3.1\GameForPraktika.exe
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\bin\Debug\netcoreapp3.1\GameForPraktika.deps.json
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\bin\Debug\netcoreapp3.1\GameForPraktika.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\bin\Debug\netcoreapp3.1\GameForPraktika.runtimeconfig.dev.json
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\bin\Debug\netcoreapp3.1\GameForPraktika.dll
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\bin\Debug\netcoreapp3.1\GameForPraktika.pdb
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.dll
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.pdb
+C:\Users\Lenovo\RiderProjects\GameForPraktika\GameForPraktika\obj\Debug\netcoreapp3.1\GameForPraktika.genruntimeconfig.cache

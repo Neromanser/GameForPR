@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/GameForPraktika/State.cs" />
         <option value="$PROJECT_DIR$/GameForPraktika/Race.cs" />
         <option value="$PROJECT_DIR$/GameForPraktika/Enum's/Sex.cs" />
+        <option value="$PROJECT_DIR$/GameForPraktika/Program.cs" />
         <option value="$PROJECT_DIR$/GameForPraktika/Character.cs" />
       </list>
     </option>
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616569444394</updated>
-      <workItem from="1616569450256" duration="1678000" />
+      <workItem from="1616569450256" duration="3892000" />
     </task>
     <servers />
   </component>
@@ -79,14 +80,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616584594016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616584594016" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616584594016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616584594016" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616584594016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616584594016" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616584594016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616584594016" />
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1616569440182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1616569440182" />
-    <state x="329" y="206" key="RiderGenerateDialog" timestamp="1616572651101">
+    <state x="329" y="206" key="RiderGenerateDialog" timestamp="1616584232586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="329" y="206" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616572651101" />
+    <state x="329" y="206" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616584232586" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1616573016921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
